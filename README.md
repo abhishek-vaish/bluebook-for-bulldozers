@@ -1,7 +1,5 @@
 # 🚜BlueBook For Bulldozers
 
-# 🚜BlueBook for Bulldozers
-
 This notebook consist of predicting the bulldozer sales in future by creating the machine learning model based on the bulldozers historical datasets.Since, we are predicting the number so it can be understand that it is a regression related problem. So, for regression problem we use different model:
 1. Random Forest Regression
 2. Lasso
